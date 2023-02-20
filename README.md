@@ -44,7 +44,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
+## Mysql
+ter: cd cd /usr/local/mysql/bin
+ter: ./mysql -u 'username' -p
 ## Test
 
 ```bash
